@@ -9,19 +9,16 @@ html {
   box-sizing: inherit;
 }
 
-body {
-display: flex;
-justify-content: center;
-align-items: center;
-margin:1.5rem;
-}
-
-section {
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-}
 
 img {
+  display: flex;
+  flex-direction: row;
   width: 10%;
+}
+
+h3 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+  flex-direction: column;
 }
