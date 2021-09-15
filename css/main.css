@@ -17,8 +17,8 @@ a {
   background-color: #444;
   color: #fff;
   width: 5rem;
-  padding:0.5rem 0.9rem 0.5rem 0.9rem;
-  font-size:0.7rem;
+  padding: .5rem .9rem;
+  font-size: .7rem;
   text-decoration: none;
 }
 
